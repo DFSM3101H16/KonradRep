@@ -1,6 +1,5 @@
 Memo til torsdag.
 
-Dere skal skrive et memo hvor dere vurderer hvilket verktøy som er best egnet til å brukes i dette kurset. Dere skal skrive memoet som et lite prosjekt, hvor dere skal gå sammen i grupper på to eller tre, og bruke git med branches og merging for å skrive på dokumentet deres i felleskap. Spørsmålene under skal besvares i dokumentet:
 
 * Kan man erstatte biter av fysikkmotoren i unity3d med egen fysikk / ligninger / metoder / funksjoner?s
 	Ja.
@@ -18,7 +17,7 @@ Dere skal skrive et memo hvor dere vurderer hvilket verktøy som er best egnet ti
 	Java
 	
 * Hva mener dere er det beste verktøyet å bruke i dette kurset?
-	Vil tro at Unity3d er et godt verktøy for denne oppgaven ettersom vi har errfaring med det.
+	Vil tro at Unity3d er et godt verktøy for denne oppgaven ettersom vi har erfaring med det.
 	
 	
 
