@@ -2,7 +2,8 @@ Memo til torsdag.
 
 
 * Kan man erstatte biter av fysikkmotoren i unity3d med egen fysikk / ligninger / metoder / funksjoner?s
-	Ja.
+	I Unity3D har en mulighet til å skru av fysikk (kollisjon og  grativasjon), og kan istedenfor 
+	legge inn egene ligninger for å lage en simulator av eget ønske. 
 	
 * Kan dere putte inn egne ligninger for bevegelse av et objekt inn i et spill? Scripte bevegelse, med egenkomponert kode som bestemmer bevegelsen.
 	Ja.
