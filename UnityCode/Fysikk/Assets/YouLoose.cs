@@ -12,6 +12,7 @@ public class YouLoose : MonoBehaviour {
 	void Update () {
 	
 	}
+
     void OnTriggerEnter(Collider other)
     {
         Debug.Log("You lose");
