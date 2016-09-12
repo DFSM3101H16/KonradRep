@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Script/Fysikk.unity
+  isLoaded: 1
+  isActive: 1
