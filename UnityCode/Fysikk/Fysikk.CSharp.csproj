@@ -69,9 +69,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MoreShapes.cs" />
     <Compile Include="Assets\Physics.cs" />
+    <Compile Include="Assets\RungeKutta.cs" />
     <Compile Include="Assets\YouLoose.cs" />
     <Compile Include="Assets\YouWin.cs" />
+    <Compile Include="Assets\kollisjonFysikk.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
