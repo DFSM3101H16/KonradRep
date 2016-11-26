@@ -26,8 +26,10 @@ public class kollisjonFysikk : MonoBehaviour {
         {
             if (bounce.collider == true)
             {
+                float Theta = Vector3.Angle(bounce.normal, Vel);
                 //transelation();
-                Vel.y = -Vel.y;
+                Vel = Quaternion.AngleAxis(Theta * 2f , bounce.normal) * Vel;
+               // Vel.y = -Vel.y*0.75f;
                 print("bounce");
             }
            
