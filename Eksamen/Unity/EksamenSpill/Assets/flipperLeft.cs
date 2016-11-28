@@ -56,7 +56,7 @@ public class flipperLeft : MonoBehaviour
         else if (flippingB)
         {
             float distance = Vector3.Distance(treffPunkt, transform.parent.position);
-            fart = fart.normalized * distance * flipperHastighet * Time.deltaTime;
+            fart = fart.normalized * distance * -flipperHastighet * Time.deltaTime;
         }
         return fart;
     }
